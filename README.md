@@ -27,7 +27,7 @@ Starting mySQL and permissions.
  Make sure to do an "npm install" before running this application, and make sure to add any mySQL username and password credentials into the "connection.js" file.
  
  ## Usage
- Link to watch application running: https://watch.screencastify.com/v/qYFy1WZDezHRQwRex0r3
+ Link to watch application running: https://watch.screencastify.com/v/kyM9e9gSaJoW8bUgVQrm
  Run this with  "node index.js" in the command line, Then you can simply answer the prompts to view or make changes to the employee DB.
 
 ## Credits  
